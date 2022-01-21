@@ -1,16 +1,9 @@
 # Problem Set 1
-<details>
-<summary><em>metadata</em></summary>
-Category: problem-set<br>
-Points: 15<br>
-Due: 2021-09-13<br>
-</details>
 
 - [ ] Submitted?
 
 _Please insert an x in the square brackets above to mark the assignment as submitted!_
 
-Due the night of September 13 at midnight
 
 ## Instructions:
 The pdf has all the basic instructions, but here are some additional guidelines.
