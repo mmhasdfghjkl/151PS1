@@ -1,9 +1,9 @@
 #====================================================
 # Filename: Prob2.py
 # 
-# Your name:
-# Who did you work with (if anyone)?:
-# Estimate for time spent (in hrs)?:
+# Your name: Malie Heine
+# Who did you work with (if anyone)?: Nobody
+# Estimate for time spent (in hrs)?: 2 hours
 #====================================================
 
 import karel
